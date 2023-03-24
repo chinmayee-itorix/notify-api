@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<APIProxy revision="1" name="notify-api-v1">
+    <ConfigurationVersion majorVersion="4" minorVersion="0" />
+    <Description>Notify-API-V1</Description>
+    <Policies>
+        <!-- Values will be populated by deployment script -->
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>notify-api-v1</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <!-- Values will be populated by deployment script -->
+    </Resources>
+    <TargetServers/>
+    <TargetEndpoints>
+        <!-- Values will be populated by deployment script -->
+            <TargetEndpoint>notify-api-v1</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>
